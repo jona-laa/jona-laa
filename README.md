@@ -28,6 +28,8 @@ I'm currently studying web development at Mitt Universitetet Sundsvall(online), 
   * React Native
   * Angular
 * PHP
-* ... and a little bit of Python
+* ... and more. 
 
-[My LinkedIn](https://www.linkedin.com/in/jonathan-laasonen-974aa617a/)
+More info can be found on [My LinkedIn](https://www.linkedin.com/in/jonathan-laasonen-974aa617a/)
+
+:v:
