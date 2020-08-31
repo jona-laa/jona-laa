@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently studying web development at Mitt Universitetet Sundsvall(online), but I'm based in Stockholm, Sweden. :swe:
+I'm currently studying web development at Mitt Universitetet Sundsvall(online), but I'm based in Stockholm, Sweden.
 
 #### Here's some of the skills that I've picked up so far
 * HTML
