@@ -23,10 +23,10 @@ I'm currently studying web development at Mitt Universitetet Sundsvall(online), 
 * CSS / SASS
 * JavaScript
   * Node
- * jQuery
- * React
- * React Native
- * Angular
+  * jQuery
+  * React
+  * React Native
+  * Angular
 * PHP
 * ... and a little bit of Python
 
