@@ -22,7 +22,7 @@ I'm currently studying web development at Mitt Universitetet Sundsvall(online), 
 * HTML
 * CSS / SASS
 * JavaScript
- * Node
+  * Node
  * jQuery
  * React
  * React Native
