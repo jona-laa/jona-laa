@@ -31,8 +31,8 @@ I'm currently studying web development at Mitt Universitetet Sundsvall(online), 
 * ... and more. 
 
 #### ... and here's a couple projects that I've built/worked on
-* [Paintings by Mela](www.paintingsbymela.se)	
-* [DealBuddy](www.dealbuddy.ai)	
+* [Paintings by Mela](https://paintingsbymela.se)	
+* [DealBuddy](https://dealbuddy.ai)	
 
 More info can be found on [My LinkedIn](https://www.linkedin.com/in/jonathan-laasonen-974aa617a/)
 
