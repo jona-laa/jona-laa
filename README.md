@@ -1,4 +1,7 @@
-![My Avatar](https://avatars3.githubusercontent.com/u/54796213?v=4) 
+                                                                    |
+                                                                    |
+                                                                    |                                                                                                                                                                   |                                       
+![My Avatar](https://avatars3.githubusercontent.com/u/54796213?v=4) |
 ### Hi there, I'm Jonathan!
 
 I'm currently studying web development at Mitt Universitetet Sundsvall, but I'm based in Stockholm, Sweden.
