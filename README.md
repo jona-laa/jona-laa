@@ -3,7 +3,7 @@
 
 I'm currently studying web development at Mitt Universitetet Sundsvall, but I'm based in Stockholm, Sweden.
 
-#### Here's some of the skills that I've picked up so far
+#### Here's some of the skills that I've picked up so far ...
 * HTML
 * CSS / SASS
 * JavaScript
