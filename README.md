@@ -16,7 +16,7 @@ I'm currently studying web development at Mid Sweden University, Sundsvall, but 
 * WordPress
 * ... and more. 
 
-#### ... and here's a couple projects that I've built/worked on
+#### ... and here's a couple live projects that I've built/worked on
 * [Paintings by Mela](https://paintingsbymela.se)
 * [DealBuddy](https://dealbuddy.ai)
 
