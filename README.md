@@ -20,9 +20,10 @@ I'm currently studying web development at [Mid Sweden University][miun], Sundsva
 * [Paintings by Mela](https://paintingsbymela.se)
 * [DealBuddy](https://dealbuddy.ai)
 
-More info can be found on [My LinkedIn](https://www.linkedin.com/in/jonathan-laasonen-974aa617a/)
+More info can be found on [My LinkedIn][linked]
 
 :v:
 
-
+<!-- Links -->
 [miun]: https://www.miun.se/en/
+[linked]: https://www.linkedin.com/in/jonathan-laasonen-974aa617a/
