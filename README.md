@@ -13,6 +13,7 @@ I'm currently studying web development at [Mid Sweden University][miun], Sundsva
   * React Native
   * Angular
 * PHP
+* C#.NET / ASP.NET
 * WordPress
 * ... and more. 
 
