@@ -17,11 +17,10 @@ I'm currently studying web development at [Mid Sweden University][miun], Sundsva
 * WordPress
 * ... and more. 
 
-#### ... and here's a couple live projects that I've built/worked on
-* [Paintings by Mela](https://paintingsbymela.se)
-* [DealBuddy](https://dealbuddy.ai)
+* Make sure to check out [my Portfolio](https://jona-laa.github.io/)
 
-More info can be found on [My LinkedIn][linked]
+
+More info can be found on [My LinkedIn][linked]!
 
 :v:
 
