@@ -16,8 +16,8 @@ I'm currently studying web development at [Mid Sweden University][miun], Sundsva
 * C#.NET / ASP.NET
 * WordPress
 * ... and more. 
-
-* Make sure to check out [my Portfolio](https://jona-laa.github.io/)
+  
+Make sure to check out [my Portfolio](https://jona-laa.github.io/)
 
 
 More info can be found on [My LinkedIn][linked]!
