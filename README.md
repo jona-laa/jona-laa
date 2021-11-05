@@ -20,8 +20,8 @@ I’ve spent a couple years studying web development at [Mid Sweden University][
 
 Make sure to check out [my Portfolio](https://jona-laa.github.io/)
 
-2
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jona-laa&count_private=true&theme=tokyonight&showicons=true)]()
+<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jona-laa&langs_count=5&theme=tokyonight)]()
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linked]
