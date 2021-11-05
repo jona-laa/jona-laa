@@ -22,16 +22,6 @@ I like both back- and front-end development, but see myself as more of a front-e
 
 Make sure to check out [my Portfolio](https://jona-laa.github.io/)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="jona-laa's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jona-laa&show_icons=true&hide_border=true" />
-
-</details>
-
-<br>
-<br>
-
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linked]
 
 :v:
