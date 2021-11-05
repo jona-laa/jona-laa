@@ -1,4 +1,4 @@
-### Hi there, I'm Jonathan! ![My Avatar](https://avatars3.githubusercontent.com/u/54796213?v=4)
+### Hi there, I'm Jonathan!
 
 I'm currently working as a full-stack developer at [Mid Sweden University][miun], Sundsvall, but I'm based in Stockholm, Sweden.
 
