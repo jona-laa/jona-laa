@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonathan!
 
-I'm currently working as a full-stack developer at [Mid Sweden University][miun], Sundsvall, but I'm based in Stockholm, Sweden.
+I'm currently working as a full-stack developer at [STACCS][staccs], in Stockholm, Sweden.
 
 #### Here's some of the skills that I've picked up so far ...
 
@@ -9,12 +9,13 @@ I'm currently working as a full-stack developer at [Mid Sweden University][miun]
 - JavaScript
   - Node
   - jQuery
-  - React
-  - React Native
+  - React(.js and native)
   - Angular
+  - Svelte
 - PHP
 - C#.NET / ASP.NET
 - WordPress
+- Some Swift / SwiftUI
 - ... and more.
 
 Make sure to check out [my Portfolio](https://jona-laa.github.io/)
@@ -25,5 +26,5 @@ Make sure to check out [my Portfolio](https://jona-laa.github.io/)
 
 <!-- Links -->
 
-[miun]: https://www.miun.se/en/
+[staccs]: https://www.staccs.com
 [linked]: https://www.linkedin.com/in/jonathan-laasonen-974aa617a/
