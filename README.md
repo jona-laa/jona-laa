@@ -36,6 +36,6 @@ Make sure to check out [my Portfolio](https://jona-laa.github.io/)
 
 <!-- Links -->
 
-[miun]: https://www.miun.se
+[miun]: https://www.miun.se/en/
 [staccs]: https://www.staccs.com
 [linked]: https://www.linkedin.com/in/jonathan-laasonen-974aa617a/
