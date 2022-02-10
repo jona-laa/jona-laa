@@ -24,8 +24,6 @@ Make sure to check out [my Portfolio](https://jona-laa.github.io/)
 
 ---
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jona-laa&langs_count=5&theme=tokyonight)]()
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jona-laa&count_private=true&theme=tokyonight&showicons=true)]()
 
 ---
