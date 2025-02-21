@@ -1,6 +1,6 @@
 ## Hi there, I'm Jonathan!
 
-I’ve spent a couple years studying web development at [Mid Sweden University][miun], Sundsvall, and also finished a high-paced full-stack JavaScript bootcamp at <⁄SALT>, Stockholm. Currently I'm working as a full-stack developer at [STACCS][staccs], in Stockholm, Sweden.
+I’ve spent a couple years studying web development at [Mid Sweden University][miun], Sundsvall, and also finished a high-paced full-stack JavaScript bootcamp at <⁄SALT>, Stockholm. Currently I'm working as a full-stack developer at [Avanza][avanza], in Stockholm, Sweden.
 
 ---
 
@@ -14,6 +14,7 @@ I’ve spent a couple years studying web development at [Mid Sweden University][
   - React(.js and native)
   - Angular
   - Svelte
+  - Astro
 - PHP
 - C#.NET / ASP.NET
 - WordPress
@@ -35,5 +36,5 @@ Make sure to check out [my Portfolio](https://jona-laa.github.io/)
 <!-- Links -->
 
 [miun]: https://www.miun.se/en/
-[staccs]: https://www.staccs.com
+[avanza]: https://www.avanza.se
 [linked]: https://www.linkedin.com/in/jonathan-laasonen-974aa617a/
